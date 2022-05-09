@@ -107,4 +107,4 @@ src/img
 src/data
 src/js
 build/
-
+src/components/Error/
